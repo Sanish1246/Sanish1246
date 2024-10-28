@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently working on enhancing my development skills<br>
 🌱At the moment I am trying to learn back-end development<br>
-⚡I have already worked on multiple projects, including a few front-end projects
+⚡I have already worked on multiple projects, using various programming languages
 
 
 ## 🌐 Socials:
