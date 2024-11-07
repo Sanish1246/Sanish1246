@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanish-coomar-ramlal) 
 
-# Portfolio:
+# 📖 My Portfolio:
 https://sanish1246.github.io/
 
 # 💻 Tech Stack:
